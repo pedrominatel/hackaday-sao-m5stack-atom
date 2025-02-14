@@ -18,6 +18,8 @@ _autosave-*
 fp-info-cache
 ~*.lck
 \#auto_saved_files#
+*.zip
+.DS_Store
 
 # Netlist files (exported from Eeschema)
 *.net
