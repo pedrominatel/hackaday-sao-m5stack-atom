@@ -2,15 +2,15 @@
 
 This is the initial design for a SAO board for the [2025 Hackaday Conference Europe](https://hackaday.com/2025/01/14/hackaday-europe-2025-tickets-on-sale-and-cfp-extended-until-friday/) in Berlin.
 
-This board was designed on KiCad v8.
+This board was designed on KiCad v9.
 
 ## Overview
 
 This SAO compatible board is based on the Apple Macintosh II for the [M5Stack AtomS3](https://docs.m5stack.com/en/core/AtomS3) (also compatible with any Atom).
 
-## Preview
+### First Version for the Hackaday Conference Europe§
 
-The first batch is under production, so the only pictures are the 3D visualization.
+![Front](hardware/m5stack-osh-first-version.jpeg)
 
 ### Front
 
