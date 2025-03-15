@@ -8,7 +8,7 @@ This board was designed on KiCad v9.
 
 This SAO compatible board is based on the Apple Macintosh II for the [M5Stack AtomS3](https://docs.m5stack.com/en/core/AtomS3) (also compatible with any Atom).
 
-### First Version for the Hackaday Conference Europe§
+### First Version for the Hackaday Conference Europe
 
 ![Front](hardware/m5stack-osh-first-version.jpeg)
 
